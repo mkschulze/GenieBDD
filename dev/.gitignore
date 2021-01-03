@@ -1,13 +1,12 @@
 # App
-dev/build/*
-dev/cache/*
-dev/config/secrets.jl
+build/*
+cache/*
+config/secrets.jl
 docs/build
 log/*
 session/*
 !*.gitkeep
 Manifest.toml
-dev/Manifest.toml
 
 # Vagrant
 .vagrant

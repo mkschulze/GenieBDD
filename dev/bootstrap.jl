@@ -1,0 +1,2 @@
+using GenieBDD
+GenieBDD.main()
